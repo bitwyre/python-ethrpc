@@ -9,7 +9,7 @@ with open(path.join(here, "README.md"), encoding="utf-8") as f:
     long_description = f.read()
 
 setup(
-    name="Python Ethereum RPC",
+    name="ethereumrpc",
     version="0.0.1",
     description="Ethereum RPC",
     long_description=long_description,

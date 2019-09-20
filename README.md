@@ -12,13 +12,13 @@ This is the template for Python Ethereum RPC.
 
 # Authors
 
-[Jeff Garzik](https://github.com/jgarzik)
-[Bitwyre](https://github.com/bitwyre)
+* [Jeff Garzik](https://github.com/jgarzik)
+* [Bitwyre](https://github.com/bitwyre)
 
 ## Contributors
 
-[Jeff Garzik](https://github.com/jgarzik)
-[Bitwyre](https://github.com/bitwyre)
+* [Jeff Garzik](https://github.com/jgarzik)
+* [Bitwyre](https://github.com/bitwyre)
 
 # Copyright
 
