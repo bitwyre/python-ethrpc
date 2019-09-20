@@ -4,24 +4,20 @@
   </a>
 </p>
 
-![Workflow Status](https://github.com/bitwyre/template-python/workflows/Python%20Package/badge.svg)
+![Workflow Status](https://github.com/bitwyre/python-ethrpc/workflows/Python%20Package/badge.svg)
 
-# Repo/Module Name Here
+# Python Ethereum RPC
 
-This is the template for Python Repository.
-
-## Running in Development Mode
-
-```sh
-$ run.sh --dev
-```
+This is the template for Python Ethereum RPC.
 
 # Authors
 
+[Jeff Garzik](https://github.com/jgarzik)
 [Bitwyre](https://github.com/bitwyre)
 
 ## Contributors
 
+[Jeff Garzik](https://github.com/jgarzik)
 [Bitwyre](https://github.com/bitwyre)
 
 # Copyright
